@@ -1,2 +1,1 @@
-# simple-software-to-print-image
-i have a program
+C#.Net simple software to print image
